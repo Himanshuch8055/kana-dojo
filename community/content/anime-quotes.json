@@ -1,4 +1,10 @@
-[
+[{
+  "japanese": "マママママ",
+  "romaji": "Mama mama mama",
+  "english": "Mama mama mama.",
+  "anime": "One Piece",
+  "character": "Charlotte Linlin (Big Mom)"
+},
   {
     "japanese": "人の夢は終わらねぇ！",
     "romaji": "Hito no yume wa owaranee!",
@@ -89,13 +95,6 @@
     "english": "You're already dead. (alt wording 18) (alt wording 70)",
     "anime": "Fist of the North Star",
     "character": "Kenshiro"
-  },
-  {
-    "japanese": "俺は人間をやめるぞ！ジョジョーーッ！！",
-    "romaji": "Ore wa ningen o yameru zo! Jojo!!",
-    "english": "I'm going to stop being human, JoJo!",
-    "anime": "JoJo's Bizarre Adventure: Phantom Blood",
-    "character": "Dio Brando"
   },
   {
     "japanese": "あきらめたらそこで試合終了ですよ…？",
@@ -532,26 +531,17 @@
     "character": "Setsuna F. Seiei"
   },
   {
-  "japanese": "オレ様の美技にブギウギ",
-  "romaji": "Ore-sama no bigi ni bugiugi",
-  "english": "Dance to my beautiful technique! (alt wording 23) (alt wording 75)",
-  "anime": "The Prince of Tennis",
-  "character": "Keigo Atobe"
+    "japanese": "オレ様の美技にブギウギ",
+    "romaji": "Ore-sama no bigi ni bugiugi",
+    "english": "Dance to my beautiful technique! (alt wording 23) (alt wording 75)",
+    "anime": "The Prince of Tennis",
+    "character": "Keigo Atobe"
   },
   {
-  "japanese": "オラオラオラオラオラ！",
-  "romaji": "Ora ora ora ora ora!",
-  "english": "Ora ora ora ora ora! (alt wording 8) (alt wording 60)",
-  "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "character": "Jotaro Kujo"
-},
-  {
-  "japanese": "仲間を大切にしない奴はそれ以上のクズだ",
-  "romaji": "Nakama o taisetsu ni shinai yatsu wa sore ijou no kuzu da",
-  "english": "Those who don't take care of their comrades are worse than scum. (alt wording 34)",
-  "anime": "Naruto",
-  "character": "Kakashi Hatake"
-}
-
-  
+    "japanese": "オラオラオラオラオラ！",
+    "romaji": "Ora ora ora ora ora!",
+    "english": "Ora ora ora ora ora! (alt wording 8) (alt wording 60)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "Jotaro Kujo"
+  }
 ]
